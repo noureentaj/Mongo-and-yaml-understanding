@@ -1,0 +1,21 @@
+SPECIMEN_ONE:
+  name: Iono
+  number: "9008888884"
+  IG: iono
+  feature: [kind, human, lazy]
+  country: IN
+
+SPECIMEN_TWO:
+  name: Khokpo
+  number: 9965557299
+  IG: noureen
+  feature: [kind, monster, scary]
+  country: IN
+
+SPECIMEN_THREE:
+  name: Trulo
+  number: 999999999
+  IG: therump
+  feature: [immature, inhumane, dumb]
+  country: AU
+
